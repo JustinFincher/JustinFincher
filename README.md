@@ -1,5 +1,5 @@
 ### Hi there 👋
-> I am 郑昊天 (HAOTIAN ZHENG), He/Him. Normally I would use my alias `JustinFincher` or `JustZht` on the Internet.
+> I am 郑昊天 (HAOTIAN ZHENG). I usually go by the alias `JustinFincher` or `JustZht` on the Internet. He/Him.
 
 - 🤔 I do iOS / Android / Unity development (and ~*graphic design is my passion*~)
 - 👨‍💻 I'm currently working on some indie projects, including:
