@@ -1,5 +1,8 @@
 ### Hi there 👋
+
 > I am 郑昊天 (HAOTIAN ZHENG). I usually go by the alias `JustinFincher` or `JustZht` on the Internet. He/Him.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JustinFincher&show_icons=true&hide_title=true" />
 
 - 🤔 I do iOS / Android / Unity development (and ~*graphic design is my passion*~)
 - 👨‍💻 I'm currently working on some indie projects, including:
@@ -8,7 +11,6 @@
 - 💡 Visit my [Resume](https://fincher.im/Haotian%20Zheng.pdf) and [Portfolio](https://portfolio.justzht.com/) if you want to know more about me!
 - 🤗 Drop me a message via [Twitter DM](https://twitter.com/JustZht) or [Email](mailto:justzht+github@gmail.com).
 - 💬 Have a great day!
-
 
 <!--
 **JustinFincher/JustinFincher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
