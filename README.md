@@ -9,6 +9,7 @@
   - 🌏 [Epoch](https://portfolio.justzht.com/epochcore), a space game with procedurally generated universes.
   - 🗺 [UniLWP](), a robust Unity live wallpaper solution for Android and macOS.
 - 💡 Visit my [Resume](https://fincher.im/Haotian%20Zheng.pdf) and [Portfolio](https://portfolio.justzht.com/) if you want to know more about me!
+- 🉑 Being a MSMITE student at Carnegie Mellon University, **I am actively seeking summer internships based in U.S.** 
 - 🤗 Drop me a message via [Twitter DM](https://twitter.com/JustZht) or [Email](mailto:justzht+github@gmail.com).
 - 💬 Have a great day!
 
